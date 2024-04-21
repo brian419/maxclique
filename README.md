@@ -80,9 +80,6 @@ The original heuristic algorithm utilizes 2 opt swap and a genetic algorithm.
 - **`void geneticAlgorithm()`**: Implements the genetic algorithm to evolve a population towards a maximum clique.
 - **`void twoOptSwap(int &solution)`**: Applies 2-opt swaps to refine solutions within the genetic algorithm framework.
 
-## Originality of solution
-[Describe why our original solution IS original] 
-
 ## Code Structure
 
 - `main()`: This is the entry point of each program. It handles the initialization processes, including reading the input data and setting up any necessary structures. It also manages the execution of the main algorithm functions and times these executions, outputting the results at the end.
