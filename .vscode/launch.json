@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/brianson/Desktop/CS470/maxclique",
+      "program": "/Users/brianson/Desktop/CS470/maxclique/build/Debug/outDebug"
+    }
+  ]
+}
